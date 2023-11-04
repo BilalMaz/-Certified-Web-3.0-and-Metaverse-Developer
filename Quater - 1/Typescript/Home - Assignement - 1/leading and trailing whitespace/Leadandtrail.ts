@@ -8,6 +8,6 @@ console.log(`"${nameWithWhitespace}"`);
 // Remove the leading and trailing whitespace
 const strippedName: string = nameWithWhitespace.trim();
 
-// Print the stripped name
+// Print the stripped names
 console.log("\nStripped Name:");
 console.log(`"${strippedName}:"`);
