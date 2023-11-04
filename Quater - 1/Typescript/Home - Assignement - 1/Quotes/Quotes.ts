@@ -1,6 +1,6 @@
 // Store the famous quote and its author
-const famousQuote: string = "With faith, discipline, and selfless devotion to duty, there is nothing worthwhile that you cannot achieve.";
-const author: string = "Muhammad Ali Jinnah";
+const famousQuote: string = "“A person who never made a mistake never tried anything new.”";
+const author: string = "Albert Einstein said Once's";
 
 // Print the quote and its author
 console.log(`"${famousQuote}" - ${author}`);
